@@ -1,4 +1,5 @@
 # M3-Wiper_control_system
+It sends out a beam of infrared light that, when water droplets are on the windshield, is reflected back at different angles. This tells the system to activate the wipers, as well as adjust wiper speed and frequency based on the intensity of the precipitation combined with the vehicle's speed.
 
 
 ## Folder Structure
