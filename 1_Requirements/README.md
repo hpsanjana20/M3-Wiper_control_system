@@ -5,23 +5,21 @@
 * Visual Studio Code, AVR compiler, SimulIDE, Make Installer, Doxygen, Linux OS, Windows OS
 
 # Features
-* The system is developed with safety enviroment when switching ‘ON’ or ‘OFF’ the light during the room occupancy or unoccupancy.
-* It also comprises manual switching in case user needs to have light during the day.
-   
+
+
 # Highlevel Requirements
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
-|HLR_1|This project ensures detection of person entering the room|Implemented|
-|HLR_2|This project helps in switching on the light automatically when you enter the room|Implemented|
-|HLR_3|This project ensures turning on the bulb off there is enough daylight using manual switch|Implemented|
+|HLR_1|This project ensures detection of light when water droplets falls on windshield|Implemented|
+|HLR_2|This project activates the wiper|Implemented|
+|HLR_3|This project adjusts wind speed and frequency based on intensity of the precipitation|Implemented|
 
     
 # Lowlevel Requirements
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
-|HLR_1|LLR_01|The detection is performed using manual switch|Implemented|
-|HLR_2|LLR_01|The detection is performed using infrared sensor|Future|
-|HLR_3|LLR_01|Power is supplied for turning on/off the bulb|Implemented|
+|HLR_1|LLR_01|The detection is performed using user button|Implemented|
+|HLR_2|LLR_01|The detection is performed using light sensor|Future|
 
 
 # SWOT Analysis
