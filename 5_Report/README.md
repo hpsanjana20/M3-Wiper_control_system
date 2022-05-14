@@ -16,15 +16,6 @@ It sends out a beam of infrared light that, when water droplets are on the winds
 |HLR_1|LLR_01|The detection is performed using user button|Implemented|
 |HLR_2|LLR_01|The detection is performed using light sensor|Future|
 
-# Architecture
-
-* Block Diagram
-
-![Block Diagram](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/2_Design/block_diagram_wiper.png)
-
-* Flowchart
-
-![Flowchart](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/2_Design/flowchart_wiper.png)
 
 
 # Test Cases
@@ -35,4 +26,15 @@ It sends out a beam of infrared light that, when water droplets are on the winds
 |TST_2|Wiper ON|User button is pressed|Blue, Green and Orange LED is ON|Blue, Green and Orange LED is ON|Requirements based|
 |TST_3|Wiper OFF|User button is pressed|Blue, Green and Orange LED is OFF|Blue, Green and Orange LED is OFF|Requirements based|
 |TST_4|Ignition key at ACC|User button is pressed and held for 2 sec|Red LED is OFF|Red LED is OFF|Requirements based|
+
+# Architecture
+
+* Block Diagram
+
+![Block Diagram](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/2_Design/block_diagram_wiper.png)
+
+* Flowchart
+
+![Flowchart](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/2_Design/flowchart_wiper.png)
+
 
