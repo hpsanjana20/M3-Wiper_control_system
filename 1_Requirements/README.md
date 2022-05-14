@@ -1,10 +1,10 @@
 # Description
-* Door sensor for automatic lighting control is widely being developed for energy saving and security purposes. 
+* Wiper control system is designed using STM32F407VG as the main controller, which senses the severity of rain and helps in varying the speeds of wiper accordingly without any manual interruption.
 
-# Requirements
-* Visual Studio Code, AVR compiler, SimulIDE, Make Installer, Doxygen, Linux OS, Windows OS
 
 # Features
+* Offers different modes of control - low speed, medium speed and high speed
+* Controls wiper action without human interruption
 
 
 # Highlevel Requirements
