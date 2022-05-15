@@ -37,4 +37,8 @@ It sends out a beam of infrared light that, when water droplets are on the winds
 
 ![Flowchart](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/2_Design/flowchart_wiper.png)
 
+# SWOT Analysis
+
+![SWOT ANALYSIS](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/swot%20analysis%20wiper.png)
+
 
