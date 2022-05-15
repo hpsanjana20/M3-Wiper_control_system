@@ -23,6 +23,7 @@
 
 
 # SWOT Analysis
+(https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/swot%20analysis%20wiper.png)
 
 
 # 4W's & 1H
