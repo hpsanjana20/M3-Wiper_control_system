@@ -1,6 +1,10 @@
 # M3-Wiper_control_system
 It sends out a beam of infrared light that, when water droplets are on the windshield, is reflected back at different angles. This tells the system to activate the wipers, as well as adjust wiper speed and frequency based on the intensity of the precipitation combined with the vehicle's speed.
 
+# Badges
+|Codacy|
+|:--:|
+([![Codacy Badge](https://app.codacy.com/project/badge/Grade/9f5c1751b343406f8d58bc7ba4eddac7)](https://www.codacy.com/gh/hpsanjana20/M3-Wiper_control_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hpsanjana20/M3-Wiper_control_system&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 |Folder|Description|
