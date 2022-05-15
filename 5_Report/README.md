@@ -41,4 +41,31 @@ It sends out a beam of infrared light that, when water droplets are on the winds
 
 ![SWOT ANALYSIS](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/swot%20analysis%20wiper.png)
 
+# Engine ON State
+
+![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(560).png)
+
+# Wiper Speed is LOW
+![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(561).png)
+
+# Wiper Speed is MODERATE
+![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(562).png)
+
+# Wiper Speed is HIGH
+![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(563).png)
+
+# OFF State
+![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(564).png)
+
+## Implementation
+    Instructions to RUN program :
+    
+        1. Clone my repository into your system.
+        2. You should go to 3_Implementation/ folder.
+        3. Run "make all" command in your terminal for execution of program.
+        
+## Author
+- [@hpsanjana20](https://github.com/hpsanjana20)
+
+
 
