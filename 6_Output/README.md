@@ -9,6 +9,6 @@
 ![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(562).png)
 
 # Wiper Speed is HIGH
-
+![](https://github.com/hpsanjana20/M3-Wiper_control_system/blob/main/6_Output/others/Screenshot%20(563).png)
 
 # OFF State
