@@ -1,5 +1,7 @@
 # Abstract
 
+## WIPER CONTROL SYSTEM
+
 Wiper is an essential component that is used to wipe raindrops or any water from the vehicle’s windscreen. The previous system used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled. Thus, this system is proposed to solve these problems. 
 
 The objectives of this project are to upgrade the older cars system by providing automatic wiping system, to improve the system by using sensor with actuator and to design a basic program that will fully operate with the system.
